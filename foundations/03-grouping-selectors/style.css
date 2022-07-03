@@ -1,0 +1,14 @@
+.black-btn,
+.pink-btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.black-btn {
+    background-color: black;
+    color: white;
+}
+
+.pink-btn {
+    background-color: rgb(235, 102, 190);
+}
